@@ -1,0 +1,226 @@
+Fitting result at iters[0001].
+pi_loss: 2.0879    v_loss: 0.6854
+pi_loss: 1.8375    v_loss: 0.5624
+pi_loss: 1.7516    v_loss: 0.5402
+pi_loss: 1.7017    v_loss: 0.5151
+pi_loss: 1.6721    v_loss: 0.5020
+pi_loss: 1.6454    v_loss: 0.4838
+pi_loss: 1.6273    v_loss: 0.4838
+pi_loss: 1.6173    v_loss: 0.4760
+pi_loss: 1.6074    v_loss: 0.4868
+pi_loss: 1.5994    v_loss: 0.4701
+
+New vs Prev. Wins : 12 vs 0 ; Draws : 28
+Accpeting new model...
+
+Fitting result at iters[0002].
+pi_loss: 1.4465    v_loss: 0.4058
+pi_loss: 1.4059    v_loss: 0.3849
+pi_loss: 1.3936    v_loss: 0.3789
+pi_loss: 1.3825    v_loss: 0.3721
+pi_loss: 1.3788    v_loss: 0.3714
+pi_loss: 1.3731    v_loss: 0.3715
+pi_loss: 1.3684    v_loss: 0.3671
+pi_loss: 1.3651    v_loss: 0.3611
+pi_loss: 1.3633    v_loss: 0.3602
+pi_loss: 1.3606    v_loss: 0.3595
+
+New vs Prev. Wins : 3 vs 0 ; Draws : 37
+Accpeting new model...
+
+Fitting result at iters[0003].
+pi_loss: 1.1887    v_loss: 0.2879
+pi_loss: 1.1829    v_loss: 0.2851
+pi_loss: 1.1803    v_loss: 0.2808
+pi_loss: 1.1782    v_loss: 0.2821
+pi_loss: 1.1763    v_loss: 0.2811
+pi_loss: 1.1752    v_loss: 0.2812
+pi_loss: 1.1735    v_loss: 0.2804
+pi_loss: 1.1718    v_loss: 0.2810
+pi_loss: 1.1710    v_loss: 0.2771
+pi_loss: 1.1725    v_loss: 0.2775
+
+New vs Prev. Wins : 0 vs 0 ; Draws : 40
+Accpeting new model...
+
+Fitting result at iters[0004].
+pi_loss: 1.0642    v_loss: 0.2317
+pi_loss: 1.0622    v_loss: 0.2309
+pi_loss: 1.0615    v_loss: 0.2300
+pi_loss: 1.0617    v_loss: 0.2298
+pi_loss: 1.0610    v_loss: 0.2296
+pi_loss: 1.0598    v_loss: 0.2312
+pi_loss: 1.0580    v_loss: 0.2285
+pi_loss: 1.0577    v_loss: 0.2289
+pi_loss: 1.0579    v_loss: 0.2288
+pi_loss: 1.0566    v_loss: 0.2278
+
+New vs Prev. Wins : 0 vs 0 ; Draws : 40
+Accpeting new model...
+
+Fitting result at iters[0005].
+pi_loss: 1.0065    v_loss: 0.2035
+pi_loss: 1.0055    v_loss: 0.2020
+pi_loss: 1.0047    v_loss: 0.2031
+pi_loss: 1.0044    v_loss: 0.2029
+pi_loss: 1.0040    v_loss: 0.2021
+pi_loss: 1.0043    v_loss: 0.2021
+pi_loss: 1.0032    v_loss: 0.2022
+pi_loss: 1.0033    v_loss: 0.2018
+pi_loss: 1.0020    v_loss: 0.2018
+pi_loss: 1.0016    v_loss: 0.2013
+
+New vs Prev. Wins : 0 vs 0 ; Draws : 40
+Accpeting new model...
+
+Fitting result at iters[0006].
+pi_loss: 0.9599    v_loss: 0.1841
+pi_loss: 0.9585    v_loss: 0.1838
+pi_loss: 0.9589    v_loss: 0.1834
+pi_loss: 0.9580    v_loss: 0.1824
+pi_loss: 0.9583    v_loss: 0.1824
+pi_loss: 0.9575    v_loss: 0.1822
+pi_loss: 0.9573    v_loss: 0.1827
+pi_loss: 0.9570    v_loss: 0.1826
+pi_loss: 0.9564    v_loss: 0.1819
+pi_loss: 0.9561    v_loss: 0.1810
+
+New vs Prev. Wins : 0 vs 0 ; Draws : 40
+Accpeting new model...
+
+Fitting result at iters[0007].
+pi_loss: 0.9246    v_loss: 0.1657
+pi_loss: 0.9267    v_loss: 0.1650
+pi_loss: 0.9246    v_loss: 0.1653
+pi_loss: 0.9280    v_loss: 0.1650
+pi_loss: 0.9235    v_loss: 0.1643
+pi_loss: 0.9248    v_loss: 0.1648
+pi_loss: 0.9225    v_loss: 0.1649
+pi_loss: 0.9228    v_loss: 0.1646
+pi_loss: 0.9223    v_loss: 0.1643
+pi_loss: 0.9239    v_loss: 0.1647
+
+New vs Prev. Wins : 0 vs 0 ; Draws : 40
+Accpeting new model...
+
+Fitting result at iters[0008].
+pi_loss: 0.9014    v_loss: 0.1533
+pi_loss: 0.9003    v_loss: 0.1521
+pi_loss: 0.9005    v_loss: 0.1522
+pi_loss: 0.9006    v_loss: 0.1526
+pi_loss: 0.9001    v_loss: 0.1528
+pi_loss: 0.9000    v_loss: 0.1514
+pi_loss: 0.8998    v_loss: 0.1521
+pi_loss: 0.8993    v_loss: 0.1515
+pi_loss: 0.8994    v_loss: 0.1520
+pi_loss: 0.8992    v_loss: 0.1517
+
+New vs Prev. Wins : 0 vs 0 ; Draws : 40
+Accpeting new model...
+
+Fitting result at iters[0009].
+pi_loss: 0.8799    v_loss: 0.1426
+pi_loss: 0.8794    v_loss: 0.1423
+pi_loss: 0.8789    v_loss: 0.1426
+pi_loss: 0.8790    v_loss: 0.1421
+pi_loss: 0.8790    v_loss: 0.1414
+pi_loss: 0.8790    v_loss: 0.1419
+pi_loss: 0.8785    v_loss: 0.1412
+pi_loss: 0.8788    v_loss: 0.1417
+pi_loss: 0.8782    v_loss: 0.1410
+pi_loss: 0.8781    v_loss: 0.1407
+
+New vs Prev. Wins : 0 vs 0 ; Draws : 40
+Accpeting new model...
+
+Fitting result at iters[0010].
+pi_loss: 0.8678    v_loss: 0.1364
+pi_loss: 0.8676    v_loss: 0.1361
+pi_loss: 0.8675    v_loss: 0.1366
+pi_loss: 0.8676    v_loss: 0.1358
+pi_loss: 0.8672    v_loss: 0.1364
+pi_loss: 0.8671    v_loss: 0.1359
+pi_loss: 0.8668    v_loss: 0.1359
+pi_loss: 0.8670    v_loss: 0.1354
+pi_loss: 0.8670    v_loss: 0.1355
+pi_loss: 0.8664    v_loss: 0.1352
+
+New vs Prev. Wins : 0 vs 0 ; Draws : 40
+Accpeting new model...
+
+Fitting result at iters[0011].
+pi_loss: 0.8556    v_loss: 0.1305
+pi_loss: 0.8557    v_loss: 0.1300
+pi_loss: 0.8556    v_loss: 0.1299
+pi_loss: 0.8554    v_loss: 0.1298
+pi_loss: 0.8553    v_loss: 0.1298
+pi_loss: 0.8553    v_loss: 0.1300
+pi_loss: 0.8556    v_loss: 0.1296
+pi_loss: 0.8549    v_loss: 0.1298
+pi_loss: 0.8549    v_loss: 0.1295
+pi_loss: 0.8547    v_loss: 0.1296
+
+New vs Prev. Wins : 0 vs 0 ; Draws : 40
+Accpeting new model...
+
+Fitting result at iters[0012].
+pi_loss: 0.8448    v_loss: 0.1230
+pi_loss: 0.8444    v_loss: 0.1226
+pi_loss: 0.8443    v_loss: 0.1227
+pi_loss: 0.8446    v_loss: 0.1227
+pi_loss: 0.8441    v_loss: 0.1225
+pi_loss: 0.8441    v_loss: 0.1227
+pi_loss: 0.8444    v_loss: 0.1228
+pi_loss: 0.8442    v_loss: 0.1221
+pi_loss: 0.8440    v_loss: 0.1227
+pi_loss: 0.8441    v_loss: 0.1224
+
+New vs Prev. Wins : 0 vs 0 ; Draws : 40
+Accpeting new model...
+
+Fitting result at iters[0013].
+pi_loss: 0.8354    v_loss: 0.1170
+pi_loss: 0.8352    v_loss: 0.1174
+pi_loss: 0.8352    v_loss: 0.1170
+pi_loss: 0.8353    v_loss: 0.1172
+pi_loss: 0.8352    v_loss: 0.1170
+pi_loss: 0.8350    v_loss: 0.1169
+pi_loss: 0.8350    v_loss: 0.1165
+pi_loss: 0.8347    v_loss: 0.1166
+pi_loss: 0.8349    v_loss: 0.1169
+pi_loss: 0.8350    v_loss: 0.1162
+
+New vs Prev. Wins : 0 vs 0 ; Draws : 40
+Accpeting new model...
+
+Fitting result at iters[0014].
+pi_loss: 0.8252    v_loss: 0.1121
+pi_loss: 0.8252    v_loss: 0.1123
+pi_loss: 0.8254    v_loss: 0.1117
+pi_loss: 0.8251    v_loss: 0.1115
+pi_loss: 0.8249    v_loss: 0.1121
+pi_loss: 0.8252    v_loss: 0.1117
+pi_loss: 0.8250    v_loss: 0.1118
+pi_loss: 0.8252    v_loss: 0.1115
+pi_loss: 0.8248    v_loss: 0.1114
+pi_loss: 0.8246    v_loss: 0.1113
+
+New vs Prev. Wins : 0 vs 0 ; Draws : 40
+Accpeting new model...
+
+Fitting result at iters[0015].
+pi_loss: 0.8133    v_loss: 0.1054
+pi_loss: 0.8133    v_loss: 0.1057
+pi_loss: 0.8130    v_loss: 0.1056
+pi_loss: 0.8129    v_loss: 0.1053
+pi_loss: 0.8128    v_loss: 0.1053
+pi_loss: 0.8128    v_loss: 0.1053
+pi_loss: 0.8128    v_loss: 0.1051
+pi_loss: 0.8129    v_loss: 0.1051
+pi_loss: 0.8125    v_loss: 0.1049
+pi_loss: 0.8128    v_loss: 0.1051
+
+New vs Prev. Wins : 0 vs 0 ; Draws : 40
+Accpeting new model...
+
+
